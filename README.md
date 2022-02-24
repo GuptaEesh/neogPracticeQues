@@ -1,0 +1,2 @@
+# neogPracticeQues
+### JS Questions repo
